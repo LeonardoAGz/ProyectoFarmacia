@@ -20,6 +20,9 @@ Scanner lectura = null;
 		
 		LogicaMetodos imp = new LogicaMetodos();
 		
+		System.out.println("PRUEBA PARA GIT");
+		System.out.println("Esto es una modificacion");
+		
 		do {
 			System.out.println("MENU PRINCIPAL");
 			System.out.println("1---ALTA");
