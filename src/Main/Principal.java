@@ -22,7 +22,9 @@ Scanner lectura = null;
 		
 		System.out.println("PRUEBA PARA GIT");
 		System.out.println("Esto es una modificacion");
-		
+		System.out.println("  ");
+		System.out.println("Prueba para la nueva rama");
+		System.out.println("  ");
 		do {
 			System.out.println("MENU PRINCIPAL");
 			System.out.println("1---ALTA");
